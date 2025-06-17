@@ -114,4 +114,24 @@ Me chamo Andressa Cabral, sou graduanda em Análise e Desenvolvimento de Sistema
   </a>
 </div>
 
+<br/>
+<br/>
+
+---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Andressacabrall/Andressacabrall/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/angelicaweiler/count.svg?"  />
+</div>
+
+
+
+
 
