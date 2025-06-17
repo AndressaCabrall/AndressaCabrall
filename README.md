@@ -106,10 +106,10 @@ Me chamo Andressa Cabral, sou graduanda em Análise e Desenvolvimento de Sistema
 
 <div align="left">
  
-  <a href="https://www.instagram.com/javanauta/" target="_blank">
+  <a href="https://www.instagram.com/andressacabralll/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://br.linkedin.com/in/angelicaweiler" target="_blank">
+  <a href="https://br.linkedin.com/in/andressacabrall" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
