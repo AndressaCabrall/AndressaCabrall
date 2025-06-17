@@ -128,7 +128,7 @@ Me chamo Andressa Cabral, sou graduanda em Análise e Desenvolvimento de Sistema
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/angelicaweiler/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/andressacabrall/count.svg?"  />
 </div>
 
 
