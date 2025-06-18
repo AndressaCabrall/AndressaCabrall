@@ -131,6 +131,18 @@ Me chamo Andressa Cabral, sou graduanda em Análise e Desenvolvimento de Sistema
   <img src="https://profile-counter.glitch.me/andressacabrall/count.svg?"  />
 </div>
 
+---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andressacabrall/andressacabrall/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andressacabrall/andressacabrall/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andressacabrall/andressacabrall/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 
 
 
