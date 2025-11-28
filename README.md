@@ -1,142 +1,77 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
-
-**`Desenvolvedora Front-end`**
-
-Me chamo Andressa Cabral, sou graduanda em Análise e Desenvolvimento de Sistemas na Estácio, apaixonada por tecnologia e desenvolvimento pessoal, em plena transição de carreira.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-### 📊 Estatísticas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andressacabrall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andressacabrall&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <h1>Andressa Cabral</h1>
+  <h3>Full Stack Developer em Formação</h3>
+  
+  <p>🚀 Transição de carreira com foco em Frontend e Backend. Apaixonada por código limpo, desenvolvimento pessoal e estudo da neurociência. Sempre aprendendo algo novo e buscando soluções inovadoras! 💡</p>
 
-
-
-<br/>
-<br/>
-
----
-
-###  Redes Sociais
-
-<div align="left">
- 
-  <a href="https://www.instagram.com/andressacabralll/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/andressacabrall/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://br.linkedin.com//in/andressa-cabrall/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:seu.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
-<br/>
-<br/>
+---
+
+## 👩‍💻 Sobre Mim
+
+👋Olá, eu sou a Andressa!, Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma **Full Stack Developer em Formação** e estou em uma emocionante transição de carreira, focada em construir soluções robustas e intuitivas, tanto no Frontend quanto no Backend. Acredito que o aprendizado contínuo é a chave para a inovação, e por isso estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Além do código, sou fascinada por neurociência e desenvolvimento pessoal, buscando entender como otimizar o processo de aprendizado e a criatividade.
+
+## 🛠️ Tecnologias e Ferramentas
+
+Minha stack de desenvolvimento inclui as seguintes tecnologias:
+
+### Linguagens de Programação
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+### Frameworks e Bibliotecas
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### Ferramentas de Desenvolvimento
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+## 🚀 Experiência em Deploy
+
+Tenho experiência em colocar projetos no ar utilizando diversas plataformas de deploy:
+*   **PythonAnywhere:** Para aplicações Python.
+*   **Railway:** Para projetos que exigem flexibilidade e integração contínua.
+*   **Hostgator:** Adquirindo um domínio específico, estou me preparando para subir meu portfólio e outros projetos, dominando a hospedagem compartilhada.
+
+## ✨ Skills Extras
+
+*   **Pesquisa com IA:** Utilizo ferramentas de Inteligência Artificial para otimizar processos, buscar soluções e acelerar o desenvolvimento.
+*   **Criação de Portfólio:** Foco em construir um portfólio robusto e visualmente atraente para demonstrar minhas habilidades e projetos.
+*   **Neurociência e Desenvolvimento Pessoal:** Aplico princípios de aprendizado e produtividade para aprimorar minha jornada como desenvolvedora.
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/AndressaCabrall">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndressaCabrall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaCabrall&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Andressacabrall/Andressacabrall/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/andressacabrall/count.svg?"  />
+  <p>Feito com ❤️ por Andressa Cabral</p>
 </div>
-
-
-
-
-
-
-
-
-
-
