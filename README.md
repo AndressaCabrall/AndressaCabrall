@@ -4,10 +4,10 @@
   
   <p>🚀 Transição de carreira com foco em Frontend e Backend. Apaixonada por código limpo, desenvolvimento pessoal e estudo da neurociência. Sempre aprendendo algo novo e buscando soluções inovadoras! 💡</p>
 
-  <a href="https://www.linkedin.com/in/andressacabrall/" target="_blank">
+  <a href="https://www.linkedin.com/in/andressa-cabrall/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu.email@example.com">
+  <a href="mailto:cabrallnegociosonline@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
