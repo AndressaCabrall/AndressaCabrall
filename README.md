@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Andressa Cabral</h1>
-  <h3>Full Stack Developer em Formação</h3>
+  <h3>Front-end Developer em Formação</h3>
   
-  <p>🚀 Transição de carreira com foco em Frontend e Backend. Apaixonada por código limpo, desenvolvimento pessoal e estudo da neurociência. Sempre aprendendo algo novo e buscando soluções inovadoras! 💡</p>
+  <p>🚀 Transição de carreira com foco em Frontend. Apaixonada por código limpo, desenvolvimento pessoal e estudo da neurociência. Sempre aprendendo algo novo e buscando soluções inovadoras! 💡</p>
 
   <a href="https://www.linkedin.com/in/andressa-cabrall/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:cabrallnegociosonline@gmail.com">
+  <a href="mailto:andressagclima@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -16,7 +16,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-👋Olá, eu sou a Andressa!, Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma **Full Stack Developer em Formação** e estou em uma emocionante transição de carreira, focada em construir soluções robustas e intuitivas, tanto no Frontend quanto no Backend. Acredito que o aprendizado contínuo é a chave para a inovação, e por isso estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Além do código, sou fascinada por neurociência e desenvolvimento pessoal, buscando entender como otimizar o processo de aprendizado e a criatividade.
+👋Olá, eu sou a Andressa!, Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma **Front-end Developer em Formação** e estou em uma emocionante transição de carreira, focada em construir soluções robustas e intuitivas. Acredito que o aprendizado contínuo é a chave para a inovação, e por isso estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Além do código, sou fascinada por neurociência e desenvolvimento pessoal, buscando entender como otimizar o processo de aprendizado e a criatividade.
 
 ## 🛠️ Tecnologias e Ferramentas
 
