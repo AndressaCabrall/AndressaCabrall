@@ -16,7 +16,11 @@
 
 ## 👩‍💻 Sobre Mim
 
-👋Olá, eu sou a Andressa!, Seja bem-vindo(a) ao meu espaço no GitHub! Sou uma **Front-end Developer em Formação** e estou em uma emocionante transição de carreira, focada em construir soluções robustas e intuitivas. Acredito que o aprendizado contínuo é a chave para a inovação, e por isso estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Além do código, sou fascinada por neurociência e desenvolvimento pessoal, buscando entender como otimizar o processo de aprendizado e a criatividade.
+Oi, eu sou a Andressa! 👋
+Desenvolvedora Front-End em transição de carreira, construindo interfaces modernas com React, JavaScript, GSAP e ScrollSmoother.
+Tenho projetos reais no ar — com autenticação, banco de dados, integração com APIs e deploy em produção. Venho do mundo do empreendedorismo, o que me deu uma visão de negócio que vai além do código.
+Curiosa por natureza, apaixonada por neurociência e sempre aprendendo. 🚀
+📌 Portfólio: andressacabraltech.com.br
 
 ## 🛠️ Tecnologias e Ferramentas
 
