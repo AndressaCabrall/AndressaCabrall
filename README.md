@@ -16,11 +16,21 @@
 
 ## 👩‍💻 Sobre Mim
 
-Oi, eu sou a Andressa! 👋
-Desenvolvedora Front-End em transição de carreira, construindo interfaces modernas com React, JavaScript, GSAP e ScrollSmoother.
-Tenho projetos reais no ar — com autenticação, banco de dados, integração com APIs e deploy em produção. Venho do mundo do empreendedorismo, o que me deu uma visão de negócio que vai além do código.
-Curiosa por natureza, apaixonada por neurociência e sempre aprendendo. 🚀
-📌 Portfólio: andressacabraltech.com.br
+Andressa Cabral — Front-End Developer
+
+Desenvolvedora Front-End em formação, especializada na construção de interfaces modernas, responsivas e orientadas a resultado.
+
+Stack principal: React • JavaScript • HTML5 • CSS3 • GSAP • ScrollSmoother
+Back-end & dados: PHP • MySQL • Python • integração com APIs REST
+Boas práticas: Git/GitHub • Mobile First • SEO • Código limpo • Deploy 
+
+Portfólio com projetos reais no ar, incluindo sistemas com autenticação, banco de dados e animações interativas. Atualmente em atuação em projeto real para cliente do setor de decoração.
+
+Background em empreendedorismo, com visão estratégica sobre branding, experiência do usuário e as reais necessidades de um negócio digital.
+
+Graduanda em Análise e Desenvolvimento de Sistemas — Estácio
+
+🌐 andressacabraltech.com.br
 
 ## 🛠️ Tecnologias e Ferramentas
 
